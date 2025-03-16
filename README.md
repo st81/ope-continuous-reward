@@ -32,3 +32,7 @@ docker run \
     ope-continuous-reward \
     exps/<xxx>.py
 ```
+
+# References
+
+- https://github.com/ghmagazine/cfml_book
