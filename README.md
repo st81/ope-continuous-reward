@@ -13,6 +13,8 @@
 | 7  | 4 でpi_0, pi 推定                                   |
 | 8  | 4 で only positive reward (未完成)                   |
 
+今後試したいこと。オンライン実験、信頼区間、only positive reard, ほぼ0 reward、SNIPS、DRなど。
+
 # Build Docker image
 
 ```bash
